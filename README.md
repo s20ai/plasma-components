@@ -1,4 +1,4 @@
-#Plasma Components 
+# Plasma Components 
 
 This repository contains open-source components for Plasma workflows.
 You can view a more detailed list at registry.s20.ai. 
